@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Express.js applications where unhandled database errors cause the application to crash. The `bug.js` file contains the erroneous code, while `bugSolution.js` provides a corrected version that handles database errors gracefully.
